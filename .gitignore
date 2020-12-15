@@ -1,0 +1,17 @@
+*.pdf
+
+debuts/results/
+debuts/debut_data/
+debuts/documents.json
+debuts/clean/
+debuts/graphs/
+
+careers/results/
+careers/career_data/
+careers/documents.json
+careers/.env
+
+legacy/legacy_data/
+legacy/results/
+legacy/documents.json
+
